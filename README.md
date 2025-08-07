@@ -6,10 +6,9 @@ This is a simple Library Management System implemented in C. It uses **doubly li
 
 - Add new books to the library
 - Remove books by ID or title
-- Search for books by title or author
+- Search for books
 - Display all books in forward or reverse order
 - Update book information
-- Maintain a unique ID for each book
 
 ## Technologies Used
 
