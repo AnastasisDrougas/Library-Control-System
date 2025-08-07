@@ -1,4 +1,5 @@
 # Library Control System (C)
+### A project I made during my second semester at DIT HUA (2025)
 
 This is a simple Library Management System implemented in C. It uses **doubly linked lists** to manage books, allowing for efficient insertion, deletion, and traversal in both directions.
 
